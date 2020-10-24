@@ -237,6 +237,6 @@ Issues of note:
 
   xmlcatalog --noout \
      --add rewriteURI \
-         http://www.oasis-open.org/docbook/xml/4.5/xsl/current \
+         http://www.oasis-open.org/docbook/xml/4.5/xsl/currennt \
          /usr/share/sgml/docbook/xml-dtd-4.5 \
      /etc/xml/catalog
